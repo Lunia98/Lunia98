@@ -23,7 +23,7 @@
 &nbsp;
 
 ## In progress: 
-
+<p align="">
 <img width="8.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png">
 <img width="8.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png">
 
