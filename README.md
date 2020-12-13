@@ -43,6 +43,6 @@
 [1]: https://https://www.linkedin.com/in/lunia98/
 
 
-[2.1]:https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png
+[2.1]: https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png
 
 [1]: mailto:ayalamilagroslucia@gmail.com
