@@ -35,14 +35,12 @@
 
 [![alt text][1.1]][1]
 &nbsp;&nbsp;&nbsp;&nbsp;
-![alt text][2.1]
-&nbsp;&nbsp;&nbsp;&nbsp;
+[![alt text][2.1]][2]
 
 [1.1]: https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-48x48.png
 
-[1]: https://https://www.linkedin.com/in/lunia98/
+[1]: https://www.linkedin.com/in/lunia98/
 
+[2.1]:https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png
 
-[2.1]: https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png
-
-[1]: mailto:ayalamilagroslucia@gmail.com
+[2]: mailto:ayalamilagroslucia@gmail.com
