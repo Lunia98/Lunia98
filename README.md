@@ -35,7 +35,7 @@
 
 [![alt text][1.1]][1]
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![alt text][2.1]][2]
+![alt text][2.1]
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 [1.1]: https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-48x48.png
